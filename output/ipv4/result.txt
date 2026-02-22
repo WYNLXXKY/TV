@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-02-22 06:33:28,http://23.237.228.134/live5/CCTV1.m3u8
+2026-02-22 18:35:06,http://23.237.228.134/live5/CCTV1.m3u8
 
 📺央视频道,#genre#
 CCTV-1,http://23.237.228.134/live5/CCTV1.m3u8
@@ -58,6 +58,7 @@ CCTV-16,http://69.30.246.194/live/cctv16.m3u8
 ☘️江苏频道,#genre#
 镇江二套社会民生,http://zjtv-wshls.homecdn.com/live/2aa16.m3u8
 镇江新闻综合,http://zjtv-wshls.homecdn.com/live/2aa50.m3u8
+镇江新闻综合,http://zjtv-wshls.homecdn.com/live/2aa50.m3u8?wsSession=a263bdc5a26cd01b57a80359-170493712215358&wsIPSercert=f56bd6194d219a5172dbed60eca6e9b0
 镇江新闻综合,http://cm-wshls.homecdn.com/live/2aa50.m3u8
 
 ☘️湖北频道,#genre#
@@ -67,7 +68,6 @@ CCTV-16,http://69.30.246.194/live/cctv16.m3u8
 ☘️天津频道,#genre#
 
 ☘️四川频道,#genre#
-叙永综合,https://m3u8channel-bx.yunxya.com/nmip-media/channellive/channel104666/playlist.m3u8
 沐川综合,https://m3u8channel-sm.yunxya.com/nmip-media/channellive/channel100420/playlist.m3u8
 
 ☘️陕西频道,#genre#
