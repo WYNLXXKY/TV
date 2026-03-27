@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-03-27 06:39:41,http://107.150.60.122/live/cctv5p.m3u8
+2026-03-27 18:56:42,http://107.150.60.122/live/cctv5p.m3u8
 
 📺央视频道,#genre#
 CCTV-5+,http://107.150.60.122/live/cctv5p.m3u8
@@ -25,7 +25,6 @@ CCTV-10,https://cdn4.skygo.mn/live/disk1/CCTV-10/HLSv3-FTA/CCTV-10.m3u8
 
 ☘️浙江频道,#genre#
 浙江钱江都市,http://ali-xwl.cztv.com/live/channel021080Plxw.m3u8
-浙江经济生活,http://ali-xwl.cztv.com/live/channel031080Plxw.m3u8
 浙江新闻,http://ali-xwl.cztv.com/live/channel071080Plxw.m3u8
 浙江国际,http://ali-xwl.cztv.com/live/channel101080Plxw.m3u8
 浙江民生休闲,http://ali-xwl.cztv.com/live/channel061080Plxw.m3u8
