@@ -1,11 +1,9 @@
 🕘️更新时间,#genre#
-2026-06-27 07:15:06,http://198.204.240.250:82/live/cctv1.m3u8
+2026-06-27 19:41:30,http://198.204.240.250:82/live/cctv1.m3u8
 
 📺央视频道,#genre#
 CCTV-1,http://198.204.240.250:82/live/cctv1.m3u8
-CCTV-1,http://69.30.245.50/live/cctv1.m3u8
 CCTV-6,http://198.204.240.250:82/live/cctv6.m3u8
-CCTV-6,http://69.30.245.50/live/cctv6.m3u8
 
 📡卫视频道,#genre#
 
@@ -31,6 +29,7 @@ CCTV-6,http://69.30.245.50/live/cctv6.m3u8
 沐川综合,https://m3u8channel-sm.yunxya.com/nmip-media/channellive/channel100420/playlist.m3u8
 
 ☘️福建频道,#genre#
+福州生活,http://live.zohi.tv:80/video/s10001-fztv-3/index.m3u8
 
 ☘️海南频道,#genre#
 
