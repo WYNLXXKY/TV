@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-06-29 07:11:52,http://198.204.240.250:82/live/cctv1.m3u8
+2026-06-29 22:11:36,http://198.204.240.250:82/live/cctv1.m3u8
 
 📺央视频道,#genre#
 CCTV-1,http://198.204.240.250:82/live/cctv1.m3u8
@@ -18,8 +18,6 @@ CCTV-6,http://69.30.245.50/live/cctv6.m3u8
 ☘️重庆频道,#genre#
 
 ☘️江苏频道,#genre#
-镇江二套社会民生,http://zjtv-wshls.homecdn.com/live/2aa16.m3u8
-镇江新闻综合,http://cm-wshls.homecdn.com/live/2aa50.m3u8
 
 ☘️湖北频道,#genre#
 
